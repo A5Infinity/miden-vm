@@ -1,3 +1,7 @@
+## Parcours français
+
+Un [guide en cinq chapitres](docs/fr/) relie exécution, trace, contraintes AIR, preuve STARK, vérification et précompiles aux composants de ce dépôt.
+
 # Miden Virtual Machine
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/0xMiden/miden-vm/blob/main/LICENSE-MIT)
